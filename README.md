@@ -13,4 +13,4 @@ This repository hosts Jupyter Notebooks relevant to our lectures and the corresp
 
 | Date                      |  Topic                     | Launcher | 
 |:-------------------------:|:--------------------------:|:--------:|
-| 27 Sept 2023              | first exercise Notebook, submission deadline: 4 Oct  |    |  
+| 27 Sept 2023              | Image Formation, submission deadline: 3 Oct  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/computervision/blob/main/assignments/01_image_formation/lab_1.ipynb)    |  
